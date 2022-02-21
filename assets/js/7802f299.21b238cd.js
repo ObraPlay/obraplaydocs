@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobraplaydocs=self.webpackChunkobraplaydocs||[]).push([[6083],{4290:function(a){a.exports=JSON.parse('{"allTagsPath":"/obraplaydocs/blog/tags","slug":"/obraplaydocs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/obraplaydocs/blog/tags/docusaurus"}')}}]);
