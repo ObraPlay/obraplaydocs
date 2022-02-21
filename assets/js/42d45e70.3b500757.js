@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkobraplaydocs=self.webpackChunkobraplaydocs||[]).push([[1357],{5968:function(a){a.exports=JSON.parse('{"allTagsPath":"/obraplaydocs/blog/tags","slug":"/obraplaydocs/blog/tags/hello","name":"hello","count":2,"permalink":"/obraplaydocs/blog/tags/hello"}')}}]);

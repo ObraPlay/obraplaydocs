@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkobraplaydocs=self.webpackChunkobraplaydocs||[]).push([[9520],{1784:function(o){o.exports=JSON.parse('{"permalink":"/obraplaydocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
