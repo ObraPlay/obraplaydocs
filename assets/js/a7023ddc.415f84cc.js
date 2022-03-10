@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobraplaydocs=self.webpackChunkobraplaydocs||[]).push([[713],{3457:function(a){a.exports=JSON.parse('{"/blog/tags/blog":{"allTagsPath":"/blog/tags","slug":"/blog/tags/blog","name":"blog","count":1,"permalink":"/blog/tags/blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobraplaydocs=self.webpackChunkobraplaydocs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bem vindo","permalink":"/blog/2022/03/10/Welcome"}]}')}}]);
