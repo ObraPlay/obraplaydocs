@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.obraplay.com/blog</id>
-    <title>Obraplay Docs Blog</title>
+    <title>Obra Play Docs Blog</title>
     <updated>2022-03-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.obraplay.com/blog"/>
-    <subtitle>Obraplay Docs Blog</subtitle>
+    <subtitle>Obra Play Docs Blog</subtitle>
     <icon>https://docs.obraplay.com/img/logo_capacete_azul.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bem vindo]]></title>
